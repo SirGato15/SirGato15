@@ -1,0 +1,7 @@
+-  Hi, I’m @SirGato15
+-  I’m interested in learning a lot about creation of videogames and mods 
+-  I’m currently learning C++ and Python
+-  I’m looking to learn Java and C#
+-  You can talk to me on Discord. Here it is: sirgato15
+-  Pronouns: He/Him
+-  Fun fact: I code kinda slow, lmao
